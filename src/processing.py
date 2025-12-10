@@ -1,5 +1,6 @@
 import datetime
-from typing import List, Dict, Any, Optional
+from typing import List, Dict, Any
+
 
 def filter_operations_by_status(
     operations: List[Dict[str, Any]], status: str
